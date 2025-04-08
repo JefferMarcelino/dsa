@@ -5,3 +5,4 @@ This repository is a personal collection of **Data Structures and Algorithms** p
 ## 📚 Topics Covered so Far
 - [Recursion](./01-recursion/)
 - [Backtracking](./02-backtracking/)
+- [Linked List](./03-linked-lists/)
